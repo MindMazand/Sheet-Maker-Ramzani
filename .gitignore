@@ -1,0 +1,7 @@
+# working previews and page renders
+build/tmp/
+sheets/
+
+# python
+__pycache__/
+*.pyc
